@@ -1,2 +1,3 @@
 Name - Best
 Registration no.: 12345
+Address - 203, Surat, Thailand
